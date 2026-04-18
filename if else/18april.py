@@ -35,7 +35,7 @@ above  25000     35%        90%
 
 """
 
-salary = int(input("enter the  salary : "))
+"""salary = int(input("enter the  salary : "))
 
 if salary <10000 : 
     hra = salary * 0.2 
@@ -52,3 +52,17 @@ else :
     da = salary * 0.90
     basic = salary + hra + da
     print("basic salary is :",basic)
+"""
+
+# task  :4 ask user to enter the  temperature and check it is  hot or cold or warm or cool.
+"""
+temperature  
+>40              hot
+30-40            warm
+20-30            normal
+10-20            cool
+0-10             very cold
+<0               snow 
+
+"""
+
