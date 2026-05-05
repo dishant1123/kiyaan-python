@@ -43,7 +43,6 @@ match ch :
 print("1.FRUITS")
 print("2.VEGETABLES")
 choice =int(input("enter the choice : "))
-
 match choice : 
     case 1 : 
         print("1.APPLE : 100rs.")
